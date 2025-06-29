@@ -12,21 +12,6 @@ body {
   text-align: center;
 }
 
-a {
-  font-weight: 600;
-  color: #aaaaaa;
-  font-size: 12px;
-  text-decoration: none;
-  font-family: "Work Sans";
-}
-
-a:hover {
-  color: white;
-}
-
-.btn:hover a {
-  color: white;
-}
 
 .btn {
   border: none;

@@ -1,5 +1,3 @@
-console.log("running...");
-
 async function getActiveTabURL() {
   const tabs = await chrome.tabs.query({
     currentWindow: true,
@@ -18,7 +16,6 @@ document.addEventListener("DOMContentLoaded", () => {
 async function getdata() {
   console.log("clicked");
   const hintBox = document.querySelector("#text");
-  const hintBtn = document.getElementById("getbtn");
   hintBox.textContent = "💬 Gemini is thinking...";
   await new Promise((resolve) => setTimeout(resolve, 2000));
   const activeTab = await getActiveTabURL();
@@ -65,7 +62,6 @@ async function getdata() {
     hint = data.candidates[0].content.parts[0].text;
     // hintBox.innerHTML = "💡 Hint: " + hint;
     hintBox.innerHTML = `💡 Hint:  </br> ${hint}`;
-    hintBtn.innerHTML = `<a class='solution' href="https://algonotebook.vercel.app/leetcode/${problemTitle}" target="_blank">View Solution</a>`;
     console.log(hint);
   } catch (err) {
     hintBox.innerHTML = "❌ Failed to get hint from Gemini.";
