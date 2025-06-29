@@ -16,8 +16,7 @@ A Chrome Extension that gives you **smart AI-generated hints** directly on LeetC
 
 ## 📸 Screenshots
 
-<img width="1000" alt="DashBoard Image" src="https://github.com/hassan-980/LeetcodeHelper.AI
-/Extention.png">
+<img width="500" alt="Screenshot" src="https://github.com/hassan-980/LeetcodeHelper.AI/blob/main/Extension.png?raw=true">
 
 ---
 
@@ -42,11 +41,9 @@ A Chrome Extension that gives you **smart AI-generated hints** directly on LeetC
 
 ## 📦 Installation
 
-### 1. Clone the Repository
+### 1. Download the zip file /LeetcodeHelper.AI
 
-```bash
-git clone https://github.com/yourusername/leetcode-hint-extension.git
-```
+Extract the file
 
 ### 2. Load as Unpacked Extension
 
@@ -60,13 +57,11 @@ git clone https://github.com/yourusername/leetcode-hint-extension.git
 ## 📁 File Structure
 
 ```
-leetcode-hint-extension/
+leetcodeHelper.AI/
 ├── manifest.json
-├── background.js
 ├── content.js
 ├── popup.html
-├── popup.js
-├── styles.css
+├── popup.css
 └── icons/
 ```
 
@@ -75,7 +70,8 @@ leetcode-hint-extension/
 ## ✨ Example Hint Output
 
 > **Problem:** Two Sum  
-> **Hint:** Try storing each number’s complement in a hash map as you iterate. Check if the current number exists in it.
+> **Click on generate**
+<img width="500" alt="Screenshot" src="https://github.com/hassan-980/LeetcodeHelper.AI/blob/main/Demo.png?raw=true">
 
 ---
 
@@ -89,14 +85,6 @@ leetcode-hint-extension/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-1. Fork this repo  
-2. Make your changes  
-3. Open a pull request
-
----
 
 ## 📄 License
 
@@ -107,5 +95,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Acknowledgements
 
 - [LeetCode](https://leetcode.com) for their amazing problem set  
-- [OpenAI](https://openai.com) for hint generation  
-- Built with 💻 and 💙 by [Your Name](https://github.com/yourusername)
+- [Gemini](https://gemini.google.com/) for hint generation  
+- Built with 💻 and 💙 by hassan
