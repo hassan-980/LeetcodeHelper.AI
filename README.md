@@ -19,7 +19,7 @@ A Chrome Extension that gives you **smart AI-generated hints** directly on LeetC
 
 ## 📸 Screenshots
 
-<img width="500" alt="Screenshot" src="https://github.com/hassan-980/LeetcodeHelper.AI/blob/main/Extension.png?raw=true">
+<img width="500" alt="Screenshot" src="https://github.com/hassan-980/LeetcodeHelper.AI/blob/main/assets/Extension.png?raw=true">
 
 ---
 
@@ -74,7 +74,7 @@ leetcodeHelper.AI/
 
 > **Problem:** Two Sum  
 > **Click on generate**
-<img width="500" alt="Screenshot" src="https://github.com/hassan-980/LeetcodeHelper.AI/blob/main/Demo.png?raw=true">
+<img width="500" alt="Screenshot" src="https://github.com/hassan-980/LeetcodeHelper.AI/blob/main/assets/Demo.png?raw=true">
 
 ---
 
