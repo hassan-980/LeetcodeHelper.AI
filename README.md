@@ -16,7 +16,7 @@ A Chrome Extension that gives you **smart AI-generated hints** directly on LeetC
 
 ## 📸 Screenshots
 
-> _Include a few screenshots or a demo GIF here showing the extension on a LeetCode problem page with the "Generate Hint" button and a displayed hint._
+<img width="1000" alt="DashBoard Image" src="https://github.com/hassan-980/Ecommerce_sales_analysis/blob/main/Extention.png">
 
 ---
 
