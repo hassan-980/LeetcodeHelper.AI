@@ -16,8 +16,7 @@ A Chrome Extension that gives you **smart AI-generated hints** directly on LeetC
 
 ## 📸 Screenshots
 
-<img width="1000" alt="DashBoard Image" src="https://github.com/hassan-980/LeetcodeHelper.AI
-/Extention.png">
+<img width="1000" alt="DashBoard Image" src="<img width="1433" alt="DashBoard Image" src="https://github.com/hassan-980/Ecommerce_sales_analysis/blob/main/DashBoard%20Image.png">">
 
 ---
 
