@@ -1,5 +1,8 @@
 # 🧩 LeetCode Problem Helper Extension
 
+
+[![Download ZIP](https://img.shields.io/badge/⬇️%20Download-ZIP-green?style=for-the-badge)](https://github.com/hassan-980/LeetcodeHelper.AI/LeetcodeHelperExtension/archive/refs/heads/main.zip)
+
 A Chrome Extension that gives you **smart AI-generated hints** directly on LeetCode problem pages. Designed to help you think better, not spoil the solution — ideal for learning, practice, and interviews.
 
 ---
