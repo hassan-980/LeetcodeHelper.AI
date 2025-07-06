@@ -2,6 +2,10 @@
 
 [![Download ZIP](https://img.shields.io/badge/⬇️%20Download-ZIP-green?style=for-the-badge)](https://download-directory.github.io/?url=https://github.com/hassan-980/LeetcodeHelper.AI/tree/main/LeetcodeHelperExtension)
 
+[Download ZIP](https://github.com/hassan-980/LeetcodeHelper.AI.git/releases/download/v1.0.0/your-zipfile.zip)
+
+
+
 
 A Chrome Extension that gives you **smart AI-generated hints** directly on LeetCode problem pages. Designed to help you think better, not spoil the solution — ideal for learning, practice, and interviews.
 
