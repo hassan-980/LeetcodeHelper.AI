@@ -1,9 +1,7 @@
 # 🧩 LeetCode Problem Helper Extension
 
-[![Download ZIP](https://img.shields.io/badge/⬇️%20Download-ZIP-green?style=for-the-badge)](https://download-directory.github.io/?url=https://github.com/hassan-980/LeetcodeHelper.AI/tree/main/LeetcodeHelperExtension)
 
-[Download ZIP](https://github.com/hassan-980/LeetcodeHelper.AI.git/releases/download/v1.0.0/your-zipfile.zip)
-
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/hassan-980/LeetcodeHelper.AI/archive/refs/heads/main.zip)
 
 
 
